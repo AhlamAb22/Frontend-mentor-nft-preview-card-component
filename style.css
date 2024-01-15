@@ -166,7 +166,7 @@ body{
 
 .author{
   border-top: 2px solid var(--Very-dark-blue-line);
-  padding-top: 5px;
+  padding-top: 10px;
   display: flex;
   align-items: center;
   gap: .5rem;
@@ -175,7 +175,7 @@ body{
 .author-img{
   max-width: 35px;
   max-height: 35px;
-  border: 2px solid var(--White);
+  border: 1px solid var(--White);
   border-radius: 50%;
 }
 
