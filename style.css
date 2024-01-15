@@ -175,6 +175,8 @@ body{
 .author-img{
   max-width: 35px;
   max-height: 35px;
+  border: 2px solid var(--White);
+  border-radius: 50%;
 }
 
 .author-name{
